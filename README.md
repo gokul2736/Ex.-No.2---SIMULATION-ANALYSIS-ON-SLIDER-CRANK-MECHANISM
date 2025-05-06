@@ -44,7 +44,7 @@
 
 
 ### Name: Markandeyan Gokul
-### Register Number: 212224240086
+### Register Number: 21222420086
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
